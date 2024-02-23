@@ -44,8 +44,8 @@ plt.plot(x,ypred,color='blue')
 plt.show()
 
 ## Output:
+![screenshot 1 (2)](https://github.com/23011811/Find-the-best-fit-line-using-Least-Squares-Method/assets/160568623/13430a2e-6f9f-46c2-953a-7bb73dcfd81e)
 
-![image](https://github.com/23011811/Find-the-best-fit-line-using-Least-Squares-Method/assets/160568623/c37b1a83-14fa-42d0-9714-926cf89d6f16)
 
 
 
